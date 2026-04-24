@@ -268,7 +268,7 @@
                 //     size: "size-[18px]"
                 // }, 
                 {
-                    url: "https://dexscreener.com/solana/TBA",
+                    url: "https://dexscreener.com/solana/BRQMbo56SoW5Y7U6CTAqiAoCw2MPoGbsPfdqetbbpump",
                     icon: c.hfL,
                     size: "size-[18px]"
                 }],

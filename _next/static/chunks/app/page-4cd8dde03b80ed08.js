@@ -29,8 +29,8 @@
                     return !a || a.length <= t + k ? a : "".concat(a.slice(0, t), "...").concat(a.slice(-k))
                 }(f),
                 v = {
-                    ETHERSCAN_CONTRACT: "https://etherscan.io/token/C8xkSu7NoDTURcFhHtno2jzC5RCXxf8zn3aNcVXipump",
-                    ETHERSCAN_LP_BURN: "https://etherscan.io/tx/0x6f805d495fa8edb54b30a78e035566f3969472a2d94593ae319a1de6b2a31947"
+                    ETHERSCAN_CONTRACT: "https://solscan.io/token/C8xkSu7NoDTURcFhHtno2jzC5RCXxf8zn3aNcVXipump",
+                    ETHERSCAN_LP_BURN: "/"
                 },
                 x = (0, u.default)(() => Promise.resolve().then(k.t.bind(k, 3770, 23)), {
                     loadableGenerated: {
